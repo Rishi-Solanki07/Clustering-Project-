@@ -35,6 +35,6 @@ Generated various graphs and visualizations to understand the clustering results
 **4 Explore the clustering results and insights obtained from the visualizations.**
 
 # Data
-**[Download Dataset]**(https://drive.google.com/file/d/1Yxwxczc0Nisk_0jfR1BKciilv4MsOXem/view?usp=sharing): Contains information on 15 attributes for 1453 customers.
+[Download Dataset](https://drive.google.com/file/d/1Yxwxczc0Nisk_0jfR1BKciilv4MsOXem/view?usp=sharing): Contains information on 15 attributes for 1453 customers.
 # Results
-**[Download Results]**(https://drive.google.com/file/d/1_YgXNTfzDCgqgKPV8yVq0fXeDVZ7M2Uw/view?usp=sharing): Provides the output of the customer segmentation, including clusters and assigned labels.
+[Download Results](https://drive.google.com/file/d/1_YgXNTfzDCgqgKPV8yVq0fXeDVZ7M2Uw/view?usp=sharing): Provides the output of the customer segmentation, including clusters and assigned labels.
