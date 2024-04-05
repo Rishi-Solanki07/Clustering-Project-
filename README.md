@@ -17,22 +17,27 @@ Visualization:
 Generated various graphs and visualizations to understand the clustering results and interpret customer segments.
 
 # Requirements
-**Python 3.x**
+**Python Jupiter-lab/notebook or Google-Colab**
 **pandas**
 **numpy**
 **matplotlib**
 **seaborn**
 **scikit-learn**
 
+
 # How to Run
-**1 Clone the repository to your local machine.**
+**1 Use the Customer Eating Experience Data-set with pd.read_csv.**
+
 **2 Install the required libraries using pip:**
-
-**EXAMPLE** **pip install pandas numpy matplotlib seaborn scikit-learn**
-
-**3 Run the Jupyter Notebook or Python script to execute the code.**
+  **EXAMPLE** **pip install pandas numpy matplotlib seaborn scikit-learn**
+  
+**3 Run the or Python script to execute the code.**
 
 **4 Explore the clustering results and insights obtained from the visualizations.**
+
+first insert the data-set and understand the structure of the data-set, columns and rows, and missing values, and outliers, anomaliers bad-junk data, after that start your EDA Process 
+in the feature-engeenring i did these steps [null-values checking,missing values,duplicates checking ,bad-data,outliers,lable-encoding,standardization,plot some graphs to understand the data to get insights,to check the correlation between varibales(columns) with heat-map, to avoide bad permormance of our model i did PCA, and after that with the help of elbow curve i decide the number of groups i want, and in last i Applied K-Means Clustering Model,and plot the result in sclatter-Plot, and save the predicted Group result, the result link is available]
+
 
 # Data
 [Download Dataset](https://drive.google.com/file/d/1Yxwxczc0Nisk_0jfR1BKciilv4MsOXem/view?usp=sharing): Contains information on 15 attributes for 1453 customers.
