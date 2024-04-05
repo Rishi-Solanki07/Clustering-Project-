@@ -1,6 +1,6 @@
 # Macdonald Customer Segmentation Project
 **Overview**
-This project aims to segment customers based on their characteristics using the Macdonald (Moving Average Convergence Divergence) dataset. The dataset contains information on 15 attributes for 1453 customers. The segmentation is performed using the k-means clustering method implemented in Python, It is an unsupervised ML Technique and after grouping them we can easily do our Marketing Porcess, EXAMPLE: New Product lunching or Specific Offers at that time we have different types of Customer Groups as per the requirement we can Target that Particular Group.
+This project aims to segment customers based on their characteristics using the Macdonald (Moving Average Convergence Divergence) dataset. The dataset contains information on 15 attributes for 1453 customers. The segmentation is performed using the k-means clustering method implemented in Python, It is an unsupervised ML Technique and after grouping them we can easily do our Marketing Process, EXAMPLE: New Product lunching or Specific Offers at that time we have different types of Customer Groups as per the requirement we can Target that Particular Group.
 
 # Methodology
 **Data Preprocessing:**
