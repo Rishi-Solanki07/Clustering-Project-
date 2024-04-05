@@ -35,8 +35,9 @@ Generated various graphs and visualizations to understand the clustering results
 
 **4 Explore the clustering results and insights obtained from the visualizations.**
 
-first insert the data-set and understand the structure of the data-set, columns and rows, and missing values, and outliers, anomaliers bad-junk data, after that start your EDA Process 
-in the feature-engeenring i did these steps [null-values checking,missing values,duplicates checking ,bad-data,outliers,lable-encoding,standardization,plot some graphs to understand the data to get insights,to check the correlation between varibales(columns) with heat-map, to avoide bad permormance of our model i did PCA, and after that with the help of elbow curve i decide the number of groups i want, and in last i Applied K-Means Clustering Model,and plot the result in sclatter-Plot, and save the predicted Group result, the result link is available]
+# Process
+**first insert the data-set and understand the structure of the data-set, columns and rows, and missing values, and outliers, anomaliers bad-junk data, after that start your EDA Process 
+in the feature-engeenring i did these steps [null-values checking, missing values, duplicates checking , bad-data, outliers, lable-encoding, standardization, plot some graphs to understand the data to get insights, to check the correlation between varibales(columns) with heat-map, to avoide bad permormance of our model I did PCA, and after that with the help of elbow curve i decide the number of groups i want, and in last i Applied K-Means Clustering Model, and plot the result in scatter Plot, and save the predicted Group result, the result link is available]**
 
 
 # Data
